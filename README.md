@@ -14,10 +14,15 @@ Convert your DirectInput controller to XOutput (Xbox controller)
 
 #####  Arcade controller to Xbox controller mapping
 > Arcade Stick = D-Pad
+
 > Buttons layout:
+
 > 1 2 3   =   RB Y B
+
 > 4 5 6	=   LB X A
+
 > Player1 Start: Start
+
 > Player1 Coin: Back
 
 ## DevCon
