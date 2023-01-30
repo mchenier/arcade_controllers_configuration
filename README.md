@@ -38,6 +38,7 @@ That project is discontinued and now is know as HidHide but HidGuardian works fo
 What I did:
 
 > Extract the HidGuardian driver to D:\Arcade\hg
+
 > Execute those command:
 
     D:\Arcade\hg\devcon\x64\devcon.exe install
@@ -49,8 +50,11 @@ What I did:
 https://github.com/shauleiz/vJoy/releases
 
 > Install vJoy
+
 > Open "Configure vJoy" make sure you have 2 vJoyDevice on tab 1 and 2.
+
 > Each device should be 8 buttons, POV Continuous 0 and uncheck Rz, Slider, Dial/Slider2 and Enable effects
+
 > Make sure Enable vJoy is checked
 
 ## Lichtknarre
@@ -101,6 +105,7 @@ https://github.com/argonlefou/DemulShooter/releases
 Im using this tool for m2emulator but there is support for more if you want to look into that.
 
 > Install DemulShooter in the folder m2Emulator for easy access.
+
 > Configure "P1 Configuration" by selecting the vJoy controller that
 > correspond to lightgun 1 and do the same for "P2 Configuration" for
 > lightgun 2. Also choose the buttons for trigger etc...
@@ -141,6 +146,7 @@ For MAME I didn't succeed using devreorder but the good news is that MAME as it'
     ctrlr                     remapController
 
 > In the ctrlr folder create a file and name it remapController.cfg
+
 > Add this to the file.
 
     <mameconfig version="10">
